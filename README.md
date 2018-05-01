@@ -1,2 +1,2 @@
-# consolevision
-Console Vision - A windowed console framework for Delphi
+# Console Vision
+A windowed console framework for Delphi
